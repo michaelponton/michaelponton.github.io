@@ -1,0 +1,18 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="thelinotype.com" resolutions="1x" timestamp="1451433500590">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="260583027" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="linotype-header-image-crop-u102.jpg" crc="4129194443" ref="index"/>
+    <file name="u110-4.png" crc="4147313710" ref="index"/>
+    <file name="u115-4.png" crc="460901108" ref="index"/>
+    <file name="u117-30.png" crc="198731398" ref="index"/>
+  </folder>
+  <file name="index.html" crc="30370449" seo="true" mt="1451433485476" redirect="true"/>
+</manifest>
