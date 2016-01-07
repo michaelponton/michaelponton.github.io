@@ -1,12 +1,10 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="thelinotype.com" resolutions="1x" timestamp="1452131986493">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="thelinotype.com" resolutions="1x" timestamp="1452137498366">
   <folder name="css">
     <file name="site_global.css" crc="4052507572"/>
-    <file name="index.css" crc="512208180" ref="index"/>
+    <file name="index.css" crc="4103753788" ref="index"/>
   </folder>
   <folder name="assets">
-    <file name="vapor-trails-(instrumental)-by-exit-exit.mp3" crc="3789671150" seo="true" mt="1445015458000"/>
-    <file name="linotype_casting.mp4" crc="3948918303" seo="true" mt="1452129289000"/>
-    <file name="linotype_composition.mp4" crc="309872377" seo="true" mt="1452125809000"/>
+    <file name="linotypelinecastingmachine.mp3" crc="4002334968" seo="true" mt="1452133504000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
@@ -17,15 +15,20 @@
   <folder name="images">
     <file name="linotype-header-image-crop-u102.jpg" crc="526239579" ref="index"/>
     <file name="u209-6.png" crc="4014838868" ref="index"/>
+    <file name="u430-4.png" crc="190309756" ref="index"/>
+    <file name="u432-4.png" crc="190309756" ref="index"/>
     <file name="u207-4.png" crc="4207002619" ref="index"/>
     <file name="u204-5.png" crc="382045283" ref="index"/>
+    <file name="composition.gif" crc="3952616172" seo="true" ref="index"/>
     <file name="u264-4.png" crc="289045859" ref="index"/>
     <file name="u266-4.png" crc="4272189941" ref="index"/>
     <file name="u305-4.png" crc="492464101" ref="index"/>
     <file name="u306-4.png" crc="4041740362" ref="index"/>
+    <file name="casting.gif" crc="357082675" seo="true" ref="index"/>
+    <file name="distribution.gif" crc="3953027453" seo="true" ref="index"/>
     <file name="pasted svg 47985x24.svg" crc="3951493776" ref="index"/>
     <file name="pasted svg 47985x24_poster_.png" crc="3787376022" ref="index"/>
     <file name="u323-5.png" crc="20141635" ref="index"/>
   </folder>
-  <file name="index.html" crc="465689106" seo="true" mt="1452131926517" redirect="true"/>
+  <file name="index.html" crc="3963111552" seo="true" mt="1452137355745" redirect="true"/>
 </manifest>
